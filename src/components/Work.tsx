@@ -8,20 +8,20 @@ import { useGSAP } from "@gsap/react";
 gsap.registerPlugin(ScrollTrigger);
 
 const projects = [
+  
   {
     id: "01",
-    name: "Cybredge Pvt. Ltd.",
-    category: "Website",
-    tools: "HTML, CSS, JavaScript, React, Tailwind",
-    image: "/images/cybredgewebsite.png",
-  },
-  {
-    id: "02",
     name: "Portfolio",
     category: "Web App",
     tools: "Html, Css, React, Tailwind",
     image: "/images/Portfoliowebsite.png",
   },
+  {
+    id: "02",
+    category: "Website",
+    tools: "HTML, CSS, JavaScript, React, Tailwind",
+  },
+  
   {
     id: "03",
     name: "E-commerce Store",
