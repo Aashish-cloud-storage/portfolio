@@ -25,7 +25,7 @@ const Contact = () => {
             <h4>Social</h4>
 
             <a
-              href="https://github.com/Aashish-cloud-storage"
+              href="https://github.com/CodeXAashish"
               target="_blank"
               rel="noopener noreferrer"
               data-cursor="disable"
